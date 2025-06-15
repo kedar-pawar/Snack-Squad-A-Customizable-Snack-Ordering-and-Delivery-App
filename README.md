@@ -99,8 +99,7 @@ Snack Squad redefines the snack ordering experience with a sleek interface, cust
 
 ## 📎 Appendix
 
-- 📁 Source Code: Available in this repository  
-- 📸 Screenshots: See `/screenshots` folder  
+- 📁 Source Code: Available in this repository   
 - 📜 DFDs, User Stories, and Architecture Diagrams: Included in `/docs`
 
 ---

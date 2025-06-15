@@ -16,7 +16,6 @@ Snack Squad is your go-to companion for planning the perfect movie night, party,
 - 🍟 **Browse Snack Catalog with Images & Descriptions**
 - 🛒 **Add to Cart & Real-Time Price Updates**
 - 🎛️ **Snack Customization (Flavors, Sizes, Packaging)**
-- 🚚 **Delivery Options: Standard, Express, Scheduled**
 - 💳 **Secure Payment Gateway (Google Pay, Apple Pay, Cards)**
 - 📦 **Live Order Tracking**
 - 🌟 **Ratings & Feedback**
